@@ -1,2 +1,48 @@
-# Google App Engine generated folder
+# Dependencies
+node_modules/
+.pub-cache/
+.pub/
+
+# Build files
+build/
+dist/
+.dart_tool/
+*.apk
+*.ipa
+*.app/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Testing
+coverage/
+.nyc_output/
+
+# Firebase
+.firebase/
+.firebaserc
+
+# Docker
+.docker/
+
+# Google App Engine
 appengine-generated/
